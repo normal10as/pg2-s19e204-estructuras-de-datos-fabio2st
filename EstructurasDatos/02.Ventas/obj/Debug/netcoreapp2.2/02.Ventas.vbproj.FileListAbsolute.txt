@@ -1,0 +1,10 @@
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\02.Ventas\obj\Debug\netcoreapp2.2\02.Ventas.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\02.Ventas\obj\Debug\netcoreapp2.2\02.Ventas.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\02.Ventas\obj\Debug\netcoreapp2.2\02.Ventas.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\02.Ventas\bin\Debug\netcoreapp2.2\02.Ventas.deps.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\02.Ventas\bin\Debug\netcoreapp2.2\02.Ventas.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\02.Ventas\bin\Debug\netcoreapp2.2\02.Ventas.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\02.Ventas\bin\Debug\netcoreapp2.2\02.Ventas.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\02.Ventas\bin\Debug\netcoreapp2.2\02.Ventas.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\02.Ventas\obj\Debug\netcoreapp2.2\02.Ventas.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\02.Ventas\obj\Debug\netcoreapp2.2\02.Ventas.pdb

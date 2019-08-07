@@ -1,0 +1,11 @@
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\01.Media\bin\Debug\netcoreapp2.2\01.Media.deps.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\01.Media\bin\Debug\netcoreapp2.2\01.Media.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\01.Media\bin\Debug\netcoreapp2.2\01.Media.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\01.Media\bin\Debug\netcoreapp2.2\01.Media.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\01.Media\bin\Debug\netcoreapp2.2\01.Media.pdb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\01.Media\obj\Debug\netcoreapp2.2\01.Media.vbprojAssemblyReference.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\01.Media\obj\Debug\netcoreapp2.2\01.Media.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\01.Media\obj\Debug\netcoreapp2.2\01.Media.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\01.Media\obj\Debug\netcoreapp2.2\01.Media.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\01.Media\obj\Debug\netcoreapp2.2\01.Media.dll
+E:\Development\visual studio 2019\Programacion2\pg2-s19e204-estructuras-de-datos-fabio2st\EstructurasDatos\01.Media\obj\Debug\netcoreapp2.2\01.Media.pdb
